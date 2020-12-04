@@ -3,7 +3,7 @@
 
 Table of contents
 =================
-  * [Project objective](#project objective)
+  * [Project objective](#project-objective)
   * [Structure](#structure)
   * [Requirements](#requirements)
   * [Objectives](#objectives)
